@@ -16,7 +16,7 @@ import android.widget.Toast;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-    public static final String BROADCAST_ACTION = "com.example.broadcastproj.BROADCAST_MESSAGE";
+    public static final String BROADCAST_ACTION = "com.example.lab5_broadcastreciver.BROADCAST_MESSAGE";
 
     Button btnStart;
     public TextView txtViewMsg;
